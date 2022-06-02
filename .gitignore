@@ -1,0 +1,7 @@
+build
+cmake-build-debug
+src/helper
+src/old
+release
+cmake-build-release
+.idea
